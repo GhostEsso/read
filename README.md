@@ -1,1 +1,3 @@
 # read
+'npx' n'est pas reconnu en tant que commande interne
+ou externe, un programme ex�cutable ou un fichier de commandes.
